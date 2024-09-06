@@ -1,4 +1,4 @@
-package com.java.yang;
+package com.java;
 
 import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;

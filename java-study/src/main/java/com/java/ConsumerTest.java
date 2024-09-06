@@ -1,4 +1,4 @@
-package com.java.java;
+package com.java;
 
 import java.util.List;
 import java.util.function.Consumer;

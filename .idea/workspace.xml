@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="911016fa-2bc3-432a-95ae-e3d3a0495fcf" name="更改" comment="[init] 初始化代码整理">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-study/src/main/java/com/java/date/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-study/src/main/java/com/java/string/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-study/src/main/java/com/java/java/ConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-study/src/main/java/com/java/ConsumerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-study/src/main/java/com/java/yang/H2Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-study/src/main/java/com/java/H2Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-study/src/main/java/com/java/yang/ResultSetPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-study/src/main/java/com/java/ResultSetPrinter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1719299103" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/spring-study" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2023.0.1.0/spring-cloud-starter-alibaba-nacos-discovery-2023.0.1.0-sources.jar!/com/alibaba/cloud/nacos/registry/NacosAutoServiceRegistration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/3.1.5/spring-boot-3.1.5-sources.jar!/org/springframework/boot/SpringApplication.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/4.1.2/spring-cloud-commons-4.1.2-sources.jar!/org/springframework/cloud/client/serviceregistry/AbstractAutoServiceRegistration.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;contexts&quot;: [
+    {
+      &quot;name&quot;: &quot;docker-desktop&quot;
+    }
+  ],
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="docker-desktop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hPGNDvxEORwgGi0P9E3JkhYHFN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BeautifulArrangement.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;HTTP 请求.generated-requests | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #37.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #38.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #39.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AsyncTest.out.executor&quot;: &quot;Debug&quot;,
+    &quot;Maven.spring-all-study [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-study [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-study [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;Spring Boot.DiscoveryStudyApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.NacosStudyApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.SpringStudyApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yang99/Desktop/spring-all-study&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yang99/Desktop/spring-all-study/arithmetic/src/main/java/com/sxlyb/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Boot.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.ConsumerTest.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.StringTest.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.Test.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.Test1.executor&quot;: &quot;Debug&quot;
+  }
+}</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Test">
+    <configuration name="Boot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.spring.Boot" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.ConsumerTest" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.string.StringTest" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.date.Test" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsyncTest.out" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.study.async.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yang.study.async" />
+      <option name="MAIN_CLASS_NAME" value="com.yang.study.async.AsyncTest" />
+      <option name="METHOD_NAME" value="out" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery-study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sxlyb.nacosstudy.DiscoveryStudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.study.SpringStudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.StringTest" />
+        <item itemvalue="JUnit.AsyncTest.out" />
+        <item itemvalue="应用程序.ConsumerTest" />
+        <item itemvalue="应用程序.Boot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="911016fa-2bc3-432a-95ae-e3d3a0495fcf" name="更改" comment="" />
+      <created>1717488257074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717488257074</updated>
+      <workItem from="1717488258355" duration="4442000" />
+      <workItem from="1717579632086" duration="4608000" />
+      <workItem from="1718183719113" duration="7437000" />
+      <workItem from="1718242910578" duration="881000" />
+      <workItem from="1718244240251" duration="30000" />
+      <workItem from="1718330798834" duration="2386000" />
+      <workItem from="1718590476995" duration="1364000" />
+      <workItem from="1718871511643" duration="2018000" />
+      <workItem from="1719219426827" duration="2942000" />
+      <workItem from="1719285915833" duration="819000" />
+      <workItem from="1719298956951" duration="254000" />
+      <workItem from="1719299238855" duration="8483000" />
+      <workItem from="1719391913204" duration="4245000" />
+      <workItem from="1719901819700" duration="6524000" />
+      <workItem from="1719973639407" duration="48000" />
+      <workItem from="1719973710713" duration="165000" />
+      <workItem from="1719973884494" duration="6000" />
+      <workItem from="1719997831917" duration="13000" />
+      <workItem from="1720425420401" duration="2714000" />
+      <workItem from="1720518719419" duration="31000" />
+      <workItem from="1720603952539" duration="626000" />
+      <workItem from="1721206210604" duration="4733000" />
+      <workItem from="1721292014315" duration="3324000" />
+      <workItem from="1721370886385" duration="5763000" />
+      <workItem from="1721381826075" duration="786000" />
+      <workItem from="1721617779373" duration="118000" />
+      <workItem from="1721619486559" duration="3099000" />
+      <workItem from="1722496636390" duration="2091000" />
+      <workItem from="1722564273008" duration="26000" />
+      <workItem from="1723010288811" duration="2016000" />
+      <workItem from="1723021065678" duration="1416000" />
+      <workItem from="1723031188331" duration="56000" />
+      <workItem from="1723078837097" duration="2084000" />
+      <workItem from="1723105465445" duration="1416000" />
+      <workItem from="1723186545664" duration="5974000" />
+      <workItem from="1723195936440" duration="123000" />
+      <workItem from="1723196083667" duration="88000" />
+      <workItem from="1723196313224" duration="22000" />
+      <workItem from="1723196442285" duration="75000" />
+      <workItem from="1723196562974" duration="595000" />
+      <workItem from="1723197500505" duration="245000" />
+      <workItem from="1723197764737" duration="7000" />
+      <workItem from="1723197801605" duration="321000" />
+      <workItem from="1723215953072" duration="100000" />
+      <workItem from="1723598491825" duration="42000" />
+      <workItem from="1723598544317" duration="7971000" />
+      <workItem from="1723623482725" duration="231000" />
+      <workItem from="1723623908120" duration="937000" />
+      <workItem from="1723691227995" duration="16000" />
+      <workItem from="1723706357516" duration="4105000" />
+      <workItem from="1723770347562" duration="3251000" />
+      <workItem from="1723792781115" duration="2915000" />
+      <workItem from="1723899131088" duration="11000" />
+      <workItem from="1723901289623" duration="772000" />
+      <workItem from="1723997000110" duration="2815000" />
+      <workItem from="1724036816823" duration="42000" />
+      <workItem from="1724036945261" duration="54000" />
+      <workItem from="1724048052131" duration="6571000" />
+      <workItem from="1724124541631" duration="4969000" />
+      <workItem from="1724140343491" duration="8726000" />
+      <workItem from="1724228249190" duration="1251000" />
+      <workItem from="1724288840670" duration="9000" />
+      <workItem from="1724773794093" duration="977000" />
+      <workItem from="1724836360598" duration="695000" />
+      <workItem from="1724837075424" duration="1097000" />
+      <workItem from="1724911059444" duration="1125000" />
+      <workItem from="1724912947817" duration="301000" />
+      <workItem from="1725073190421" duration="13000" />
+      <workItem from="1725257638504" duration="2813000" />
+      <workItem from="1725504879773" duration="2341000" />
+      <workItem from="1725601690543" duration="613000" />
+    </task>
+    <task id="LOCAL-00001" summary="[init]">
+      <option name="closed" value="true" />
+      <created>1718590625291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718590625291</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[init]">
+      <option name="closed" value="true" />
+      <created>1723792834150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723792834150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[init]">
+      <option name="closed" value="true" />
+      <created>1723792857590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723792857590</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[init]">
+      <option name="closed" value="true" />
+      <created>1723793023688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723793023688</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[init] 初始化代码整理">
+      <option name="closed" value="true" />
+      <created>1724836233019</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724836233020</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/spring-study" />
+    </ignored-roots>
+    <MESSAGE value="[init]" />
+    <MESSAGE value="[init] 初始化代码整理" />
+    <option name="LAST_COMMIT_MESSAGE" value="[init] 初始化代码整理" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2023.0.1.0/spring-cloud-starter-alibaba-nacos-discovery-2023.0.1.0-sources.jar!/com/alibaba/cloud/nacos/discovery/NacosServiceDiscovery.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/2.3.2/nacos-client-2.3.2-sources.jar!/com/alibaba/nacos/client/naming/remote/http/NamingHttpClientProxy.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/6.1.5/spring-context-6.1.5-sources.jar!/org/springframework/context/support/GenericApplicationContext.java</url>
+          <line>413</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/arithmetic-study/src/main/java/com/sxlyb/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
+          <line>414</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.0.13/spring-web-6.0.13.jar!/org/springframework/web/context/AbstractContextLoaderInitializer.class</url>
+          <line>22</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.1.5/spring-web-6.1.5-sources.jar!/org/springframework/web/SpringServletContainerInitializer.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.1.5/spring-web-6.1.5-sources.jar!/org/springframework/web/SpringServletContainerInitializer.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.1.5/spring-web-6.1.5-sources.jar!/org/springframework/web/SpringServletContainerInitializer.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java</url>
+          <line>567</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java</url>
+          <line>571</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java</url>
+          <line>297</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
+          <line>504</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
+          <line>706</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-study/src/main/java/com/java/spring/Boot.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-study/src/main/java/com/java/spring/Boot.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
